@@ -4,7 +4,6 @@
 
 截图如下:
 
-![screenshot](screenshot/screen.gif)
-
+<img src="screenshot/screen.gif" alt="screenshot" width="355" height="588">
 
 
